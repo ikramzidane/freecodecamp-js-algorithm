@@ -178,3 +178,23 @@ let chunkArrayInGroups = (arr, size) => {
 
 	return finalArr;
 }
+
+
+module.exports = {
+	convertToF,
+	reverseString,
+	factorialize,
+	findLongestWordLength,
+	largestOfFour,
+	confirmEnding,
+	repeatStringNumTimes,
+	truncateString,
+	findElement,
+	booWho,
+	titleCase,
+	frankenSplice,
+	bouncer,
+	getIndexToIns,
+	mutation,
+	chunkArrayInGroups,
+}
